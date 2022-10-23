@@ -3,5 +3,7 @@
 ``` 
 sh start.sh
 ```
+----
 
+> поддержать меня можете на boosty: https://boosty.to/game_os
 
